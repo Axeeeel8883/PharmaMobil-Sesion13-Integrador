@@ -1,0 +1,18 @@
+# Firma Android: nunca versionar secretos
+keystore.properties
+*.jks
+*.keystore
+
+# Archivos de compilación y entorno
+.gradle/
+build/
+**/build/
+local.properties
+.idea/
+*.iml
+
+# Artefactos binarios generados
+*.apk
+*.aab
+*.apks
+*.ipa
